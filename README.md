@@ -20,3 +20,7 @@ Ex: flutter run -d chrome
 ```bash
 flutter run -d chrome
 ```
+
+## Screen Shot
+![](https://raw.githubusercontent.com/sun1211/food_app/master/screenShot/Screenshot_1612971486.png)
+![](https://raw.githubusercontent.com/sun1211/food_app/master/screenShot/Screenshot_1612971559.png)
