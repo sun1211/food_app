@@ -11,9 +11,9 @@ Require
 Flutter 1.25.0-8.1.pre • channel beta • https://github.com/flutter/flutter.git
 Framework • revision 8f89f6505b (9 weeks ago) • 2020-12-15 15:07:52 -0800
 Engine • revision 92ae191c17
-Tools • Dart 2.12.0 (build 2.12.0-133.2.beta)
 ```
 
+Tools
 ```bash
 flutter pub get
 ```
